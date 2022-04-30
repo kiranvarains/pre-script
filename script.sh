@@ -1,3 +1,4 @@
+#! /bin/bash
 ######################mounted filesystems##########
 df -h 
 

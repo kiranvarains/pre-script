@@ -1,2 +1,1 @@
-# pre-script
-Uploading the written scripts
+# shell_sricpts
